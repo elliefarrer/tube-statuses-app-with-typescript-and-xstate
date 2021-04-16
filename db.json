@@ -1,0 +1,32 @@
+{
+    "lines": [
+        {
+            "id": "1",
+            "name": "District",
+            "status": "suspended",
+            "affectedStations": "all",
+            "info": "Suspended on the entire line due to a leaf on the track at Richmond"
+        },
+        {
+            "id": "2",
+            "name": "Metropolitan",
+            "status": "delayed",
+            "affectedStations": "Chesham",
+            "info": "Delays of up to one week on the Chesham branch, good serice everywhere else lol"
+        },
+        {
+            "id": "3",
+            "name": "Central",
+            "status": "suspended",
+            "affectedStations": "Marble Arch to Bethnal Green",
+            "info": "Suspended due to instances of smallpox and bubonic plague found on the trains and stations"
+        },
+        {
+            "id": "4",
+            "name": "Victoria",
+            "status": "good service",
+            "affectedStations": null,
+            "info": null
+        }
+    ]
+}
