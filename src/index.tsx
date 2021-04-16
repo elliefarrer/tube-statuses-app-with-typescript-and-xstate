@@ -1,6 +1,11 @@
 import React, { FC } from 'react';
 import { render } from 'react-dom';
+import { StatusBoard } from './components';
 
-const App: FC = () => <h1>Hello world</h1>
+const App: FC = () => (
+    <div>
+        <StatusBoard />
+    </div>
+)
 
 render(<App />, document.getElementById('root'));
